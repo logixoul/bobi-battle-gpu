@@ -1,0 +1,15 @@
+{
+	"compilerOptions": {
+	  "outDir": "./built",
+	  "allowJs": true,
+	  "target": "es2017",
+	  "noEmitOnError": true,
+	  /*"noImplicitAny": true,
+	  "strictNullChecks": true,
+	  "noImplicitReturns": true,
+	  "noFallthroughCasesInSwitch": true*/
+	  "strict": true,
+	  "moduleResolution": "node",
+	},
+	"include": ["./src/**/*"]
+  }
